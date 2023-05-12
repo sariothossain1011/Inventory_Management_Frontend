@@ -1,1 +1,1 @@
-export const BaseURL="http://localhost:8080/api/v1";
+export const BaseURL="https://inventory-backend-lyart.vercel.app/api/v1";

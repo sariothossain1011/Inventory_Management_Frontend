@@ -11,7 +11,19 @@
 - Login 
 - Forget Password
 - Get Profile
-- Update Profile k
+- Update Profile 
+- Brands (Create,Update,Delete,List)
+- Category (Create,Update,Delete,List)
+- Products (Create,Update,Delete,List)
+- Customer (Create,Update,Delete,List)
+- Supplier (Create,Update,Delete,List)
+- Expense (Create,Update,Delete,List)
+- Expense Type (Create,Update,Delete,List)
+- Report (Search By Date / Report Download By Svg , XLS)
+- Return (Create,Update,Delete,List)
+- Sales (Create,Update,Delete,List)
+- DashBoard (Show Total Sales, Purchase, Return, Expense Graph )
+
 
 # Uses Technology & Packages 
 - Mongodb

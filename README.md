@@ -1,6 +1,6 @@
 #     Inventory Management Website 
 
-# Live Preview 1 :  (https://inventory-frontend-delta-five.vercel.app/Login)
+# Live Preview 1 :  (https://inventory-frontend-sariot-hossain.vercel.app/Login)
 
 <!-- ![myimage-alt-tag](https://i.postimg.cc/d14tyNT0/dashboard.png)
 ![myimage-alt-tag](https://i.postimg.cc/NF8M0G7W/profile.png)

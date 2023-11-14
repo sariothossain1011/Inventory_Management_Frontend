@@ -66,7 +66,7 @@ const Registration = () => {
                                 </div>
                             <div className="row m-0  p-0">
                                 <div className="col-md-4 text-start p-2">
-                                    <button onClick={onRegistration} className="btn w-100 mt-2 btn-success">Complete</button>
+                                    <button onClick={onRegistration} className="btn w-100 mt-2 btn-success">Sing Up</button>
                                 </div>
                             </div>
                         </div>

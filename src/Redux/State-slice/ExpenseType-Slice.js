@@ -14,7 +14,7 @@ export const expensetypeSlice=createSlice({
         },
         SetExpenseTypeListTotal:(state,action)=>{
             state.ListTotal=action.payload
-        },
+        },  
         OnChangeExpenseTypeInput:(state,action)=>{
             state.FormValue[`${action.payload.Name}`]=action.payload.Value;
         },

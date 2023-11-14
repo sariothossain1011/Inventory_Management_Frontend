@@ -35,7 +35,7 @@ const  Login = () => {
                                 <br/>
                                 <input ref={(input)=>passRef=input} placeholder="User Password" className="form-control" type="password"/>
                                 <br/>
-                                <button onClick={SubmitLogin} className="btn btn-success w-100 animated ">Next</button>
+                                <button onClick={SubmitLogin} className="btn btn-success w-100 animated ">Sing In</button>
                                 <div className="float-end mt-3">
                                     <span>
                                         <Link className="text-center ms-3 h6" to="/Registration">Sign Up</Link>

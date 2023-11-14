@@ -18,7 +18,7 @@ const BrandList = () => {
     },[])
 
 
-    let DataList=useSelector((state)=>(state.brand.List));
+    let DataList= useSelector((state)=>(state.brand.List));
     let Total=useSelector((state)=>(state.brand.ListTotal))
 
     const handlePageClick = async (event) => {
